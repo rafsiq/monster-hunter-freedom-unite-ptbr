@@ -1,0 +1,19 @@
+# Nunca versionar imagens completas do jogo.
+*.iso
+*.cso
+*.chd
+*.pbp
+
+# Pacotes gerados para Releases.
+*.zip
+*.7z
+*.rar
+
+# Arquivos temporários e caches.
+*.tmp
+*.bak
+*.log
+__pycache__/
+node_modules/
+.DS_Store
+Thumbs.db
