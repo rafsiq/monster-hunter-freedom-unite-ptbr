@@ -49,7 +49,7 @@ Outras regiões, versões, imagens modificadas ou arquivos compactados não são
 
 ## Como instalar
 
-1. Baixe `Monster Hunter Freedom Unite (PT-BR) v1.0.xdelta` da pasta [patches](patches) ou da [Release v1.0](https://github.com/rafsiq/monster-hunter-freedom-unite-ptbr/releases/tag/v1.0).
+1. Baixe `Monster-Hunter-Freedom-Unite-PTBR-v1.0.xdelta` da pasta [patches](patches) ou da [Release v1.0](https://github.com/rafsiq/monster-hunter-freedom-unite-ptbr/releases/tag/v1.0).
 2. Instale ou baixe um aplicador compatível com Xdelta 3.
 3. Selecione sua ISO base como arquivo de origem.
 4. Selecione o arquivo `.xdelta` baixado como patch.
