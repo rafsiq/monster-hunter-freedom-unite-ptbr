@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://static.wikia.nocookie.net/monsterhunter/images/9/92/Logo-MHFU.png" alt="logo" width="35%">
 </p>
+
 # Monster Hunter Freedom Unite — Tradução PT-BR
 
 Patch de tradução não oficial de **Monster Hunter Freedom Unite** para português do Brasil.
