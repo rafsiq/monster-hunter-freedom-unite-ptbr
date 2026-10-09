@@ -73,9 +73,9 @@ Confirme os hashes informados abaixo antes de jogar. Preserve a ISO original.
 | --- | --- |
 | Nome sugerido | `Monster Hunter Freedom Unite (PT-BR) v1.0.iso` |
 | Tamanho | 886.702.080 bytes |
-| SHA-256 | `8d2a9c6dc1a28799424d58cfd0bbea3f61a5dbe03375e7a14185ccf3ea991cee` |
+| SHA-256 | `9c434afad65cd26fc4f3a16abf2d9cba5aed37fdea8b9c374d14c414208bb57c` |
 
-O patch `.xdelta` possui SHA-256 `50169ad3a9e03aee94a881d8dbf7b19564a4f49f8c3d81a81d7541d6d8cbf12a`. Consulte também [CHECKSUMS.md](CHECKSUMS.md).
+O patch `.xdelta` possui SHA-256 `b62cc01ac7348f04c65b18eb6c68b427b498e6a3e53b91635ddb5c6907882342`. Consulte também [CHECKSUMS.md](CHECKSUMS.md).
 
 ## Problemas conhecidos
 
