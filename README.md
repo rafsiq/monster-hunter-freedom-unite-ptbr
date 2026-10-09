@@ -10,6 +10,15 @@ Esta distribuição contém somente as diferenças produzidas pela tradução. N
 
 A tradução toma como referência a terminologia oficial em português do Brasil dos jogos mais recentes da série *Monster Hunter*, com adaptações ao contexto de *Freedom Unite* e às limitações de espaço do jogo original.
 
+## Conteúdo da tradução
+
+- Textos de menus, itens e descrições;
+- armas e armaduras permanecem com os nomes originais e as descrições traduzidas;
+- missões, objetivos e resultados;
+- diálogos, tutoriais e textos de ajuda;
+- textos de interface e elementos gráficos localizados;
+- padronização terminológica em português do Brasil.
+
 ## Imagens da tradução
 
 <p align="center">
@@ -67,14 +76,6 @@ Confirme os hashes informados abaixo antes de jogar. Preserve a ISO original.
 | SHA-256 | `8d2a9c6dc1a28799424d58cfd0bbea3f61a5dbe03375e7a14185ccf3ea991cee` |
 
 O patch `.xdelta` possui SHA-256 `50169ad3a9e03aee94a881d8dbf7b19564a4f49f8c3d81a81d7541d6d8cbf12a`. Consulte também [CHECKSUMS.md](CHECKSUMS.md).
-
-## Conteúdo da tradução
-
-- Textos de menus, itens, equipamentos e descrições;
-- missões, objetivos e resultados;
-- diálogos, tutoriais e textos de ajuda;
-- textos de interface e elementos gráficos localizados;
-- padronização terminológica em português do Brasil.
 
 ## Problemas conhecidos
 
