@@ -10,6 +10,10 @@ Esta distribuição contém somente as diferenças produzidas pela tradução. N
 
 A tradução toma como referência a terminologia oficial em português do Brasil dos jogos mais recentes da série *Monster Hunter*, com adaptações ao contexto de *Freedom Unite* e às limitações de espaço do jogo original.
 
+## Processo da tradução
+Agent de IA para extração dos textos, criação de glossário, edição de imagem, tradução preliminar, reinserção dos textos.
+Revisão e aprovação humana em todos os textos + testes in-game.
+
 ## Conteúdo da tradução
 
 - Textos de menus, itens e descrições;
