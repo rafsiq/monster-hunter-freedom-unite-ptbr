@@ -5,5 +5,5 @@ Algoritmo: SHA-256.
 | Arquivo | SHA-256 |
 | --- | --- |
 | ISO original americana v1.01 | `4f5687a1f4afd1df52019e66831ecd05ca5b6b4d876832d56fbc1f000d74a05e` |
-| `patches/Monster-Hunter-Freedom-Unite-PTBR-v1.0.xdelta` | `714fc7498078382f1d4ae77b8d2c61cefd746ddff72181154489cfe902dd520e` |
-| ISO traduzida resultante | `6c6b0bc6a39dcfdacbf6f4a6c1ce05f1ea408f38fca9b4d97d53707ee50d1ff2` |
+| `patches/Monster-Hunter-Freedom-Unite-PTBR-v1.0.xdelta` | `12e3a951f7ae2a9e41522ede07835cb3a3f3e5d4372811f0fc28717d9185d6f5` |
+| ISO traduzida resultante | `fcc7adac1f34cd7d62ec5305297f6d7927e961816af8a38f43eb1607555efc88` |
