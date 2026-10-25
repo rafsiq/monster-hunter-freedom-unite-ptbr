@@ -38,7 +38,15 @@ A tradução toma como referência a terminologia oficial em português do Brasi
 
 ## Versão do patch
 
-**v1.0**, atualizada em 13/10/2026.
+**v1.1**, lançada em 25/10/2026.
+
+### Alterações da v1.1
+
+- Pequenas correções em textos que saíam das caixas;
+- Correção de alguns termos fora da padronização;
+- Revisão geral das descrições de armas e armaduras.
+
+A [v1.0](https://github.com/rafsiq/monster-hunter-freedom-unite-ptbr/releases/tag/v1.0) permanece disponível.
 
 ## Requisitos
 
@@ -59,11 +67,11 @@ Outras regiões, versões, imagens modificadas ou arquivos compactados não são
 
 ## Como instalar
 
-1. Baixe `Monster-Hunter-Freedom-Unite-PTBR-v1.0.xdelta` da pasta [patches](patches) ou da [Release v1.0](https://github.com/rafsiq/monster-hunter-freedom-unite-ptbr/releases/tag/v1.0).
+1. Baixe `Monster-Hunter-Freedom-Unite-PTBR-v1.1.xdelta` da pasta [patches](patches) ou da [Release v1.1](https://github.com/rafsiq/monster-hunter-freedom-unite-ptbr/releases/tag/v1.1).
 2. Instale ou baixe um aplicador compatível com Xdelta 3.
 3. Selecione sua ISO base como arquivo de origem.
 4. Selecione o arquivo `.xdelta` baixado como patch.
-5. Escolha `Monster Hunter Freedom Unite (PT-BR) v1.0.iso` como arquivo de saída.
+5. Escolha `Monster Hunter Freedom Unite (PT-BR) v1.1.iso` como arquivo de saída.
 
 Confirme os hashes informados abaixo antes de jogar. Preserve a ISO original.
 
@@ -71,11 +79,11 @@ Confirme os hashes informados abaixo antes de jogar. Preserve a ISO original.
 
 | Propriedade | Valor |
 | --- | --- |
-| Nome sugerido | `Monster Hunter Freedom Unite (PT-BR) v1.0.iso` |
+| Nome sugerido | `Monster Hunter Freedom Unite (PT-BR) v1.1.iso` |
 | Tamanho | 886.702.080 bytes |
-| SHA-256 | `7962a482e2f0943070971d5937f730323d2df06770ebee7b6109dba5bf0ad1e0` |
+| SHA-256 | `9c5775b3ee8e8562f1f1b29de23081e256b27830c452ab4539463a6d51940ee5` |
 
-O patch `.xdelta` possui SHA-256 `3c109d02e7ee97b4d807775c3715076609c40d3e2905d29768fda881f9d76c63`. Consulte também [CHECKSUMS.md](CHECKSUMS.md).
+O patch `.xdelta` possui SHA-256 `de8309746960a544f13776ff17df6aa57917cca29cf697b04370a43c94c4660e`. Consulte também [CHECKSUMS.md](CHECKSUMS.md).
 
 ## Problemas conhecidos
 
