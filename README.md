@@ -19,6 +19,9 @@ A tradução toma como referência a terminologia oficial em português do Brasi
 - textos de interface e elementos gráficos localizados;
 - padronização terminológica em português do Brasil.
 
+## Vídeo da tradução
+https://www.youtube.com/watch?v=dP2r8gF6CYc
+
 ## Imagens da tradução
 
 <p align="center">
