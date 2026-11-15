@@ -41,7 +41,7 @@ https://www.youtube.com/watch?v=dP2r8gF6CYc
 
 ## Versão do patch
 
-**v1.1**, lançada em 25/10/2026.
+**v1.1**, lançada em 25/10/2026; patch atualizado em 15/11/2026.
 
 ### Alterações da v1.1
 
@@ -84,9 +84,9 @@ Confirme os hashes informados abaixo antes de jogar. Preserve a ISO original.
 | --- | --- |
 | Nome sugerido | `Monster Hunter Freedom Unite (PT-BR) v1.1.iso` |
 | Tamanho | 886.702.080 bytes |
-| SHA-256 | `9c5775b3ee8e8562f1f1b29de23081e256b27830c452ab4539463a6d51940ee5` |
+| SHA-256 | `4c9870093decc0ec8aa4294be8c8204cc7983e5f0309f87bb74ff13dc8096f71` |
 
-O patch `.xdelta` possui SHA-256 `de8309746960a544f13776ff17df6aa57917cca29cf697b04370a43c94c4660e`. Consulte também [CHECKSUMS.md](CHECKSUMS.md).
+O patch `.xdelta` possui SHA-256 `63ee2cb98b1a058a6982acba8dd47116db50df493ba62ac5ede96787cc373da7`. Consulte também [CHECKSUMS.md](CHECKSUMS.md).
 
 ## Problemas conhecidos
 
